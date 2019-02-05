@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="20dp"
+        >
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/iSesionCorreo"
+            android:textSize="15sp"
+            android:textAlignment="center"
+            android:textColor="@color/secondaryDarkColor"
+            android:padding="10dp"
+            />
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="text"
+            android:padding="10dp"
+            android:id="@+id/iniciarCorreo"
+            />
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/iSesionContraseña"
+            android:textSize="15sp"
+            android:textAlignment="center"
+            android:textColor="@color/secondaryDarkColor"
+            android:padding="10dp"
+            />
+        <EditText
+            android:padding="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textPassword"
+            android:id="@+id/iniciarPass"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginHorizontal="30dp"
+            android:text="@string/iSesion"
+            android:textColor="@color/secondaryDarkColor"
+            android:shadowColor="@color/secondaryLightColor"
+            android:id="@+id/iniciarS"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginHorizontal="30dp"
+            android:text="@string/iSesionR"
+            android:textColor="@color/secondaryDarkColor"
+            android:shadowColor="@color/secondaryLightColor"
+            android:id="@+id/registrarse"
+            />
+
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>

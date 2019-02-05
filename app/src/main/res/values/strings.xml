@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">APPARK</string>
+
+
+    <string name="rNombre">Nombre (s)</string>
+    <string name="rApellidoP">Apellido paterno</string>
+    <string name="rApellidoM">Apellido materno</string>
+    <string name="rCorreo">Email</string>
+    <string name="rNTel">Teléfono móvil</string>
+    <string name="rCont">Contraseña</string>
+    <string name="rContV">Confirma contraseña</string>
+    <string name="rFNac">Fecha de nacimiento</string>
+    <string name="rnumLic">Número de licencia de conducir</string>
+    <string name="rMBienvenida">Registro de usuarios</string>
+    <string name="rTPago">Tarjeta de pago</string>
+    <string name="nombre">Nombre</string>
+    <string name="rAno">Año</string>
+    <string name="rMes">Mes</string>
+    <string name="rDia">Día</string>
+    <string name="iSesionCorreo">Correo electronico</string>
+    <string name="iSesionContraseña">Contraseña</string>
+    <string name="iSesion">Iniciar sesion</string>
+    <string name="iSesionR">Registrarse</string>
+    <string name="Beneficiario">¿Eres usuario beneficiario?</string>
+    <string name="rRefDia">28</string>
+    <string name="rRefMes">11</string>
+    <string name="rRefAno">97</string>
+
+
+    <string name="boton2">Rentar más tiempo</string>
+    <string name="boton1">Iniciar Servicio</string>
+    <string name="num1">Tiempo a rentar?</string>
+    <string name="time">00:00</string>
+    <string name="HH">H H</string>
+    <string name="MM">M M</string>
+    <string name="separador"> : </string>
+    <string name="tview">Tiempo a rentar</string>
+    <string name="title_activity_lugares_e">Map</string>
+</resources>
