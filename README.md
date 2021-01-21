@@ -1,0 +1,2 @@
+# APPARK
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/fc2cb855fa424b6786ccc03a9e519c3d)](https://app.codacy.com/gh/Nahumr/APPARK?utm_source=github.com&utm_medium=referral&utm_content=Nahumr/APPARK&utm_campaign=Badge_Grade)
